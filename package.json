@@ -17,7 +17,7 @@
     "dotenv": "^16.4.7",
     "react": "^19.0.0-rc-7283a213-20241206",
     "react-dom": "^19.0.0-rc-7283a213-20241206",
-    "react-markdown": "^8.0.1"
+    "react-markdown": "^9.1.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.15.0",
